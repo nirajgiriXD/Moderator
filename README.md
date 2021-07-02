@@ -6,3 +6,5 @@ The program is based on file handling.
 The algorithm checks for phrases that might be of positive or negative sentiment then it counts those checkpoints and gives percentage of how much posituve or negative the written document was.
 
 PS: It has nothing to do with AI or ML.
+
+XD
